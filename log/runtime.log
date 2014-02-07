@@ -1,0 +1,29 @@
+[2014-02-07 15:20:18.213] [ERROR] default - Parsing Json error:SyntaxError: Unexpected end of input
+[2014-02-07 15:20:18.215] [ERROR] default - 
+[2014-02-07 15:22:50.303] [ERROR] default - Parsing Json error:SyntaxError: Unexpected token ：
+[2014-02-07 15:22:50.304] [ERROR] default - {
+    "adpId": ["0001"],
+    "city"：['000000']
+}
+[2014-02-07 15:23:15.835] [ERROR] default - Parsing Json error:SyntaxError: Unexpected token '
+[2014-02-07 15:23:15.835] [ERROR] default - {
+    "adpId": ["0001"],
+    "city":['000000']
+}
+[2014-02-07 15:23:39.236] [ERROR] default - Validate parameter error: adp ids aren't all same type.
+[2014-02-07 15:23:39.236] [ERROR] default - Error adps:0001
+[2014-02-07 15:24:56.046] [ERROR] default - Validate parameter error: adp ids aren't all same type.
+[2014-02-07 15:24:56.046] [ERROR] default - Error adps:0001
+[2014-02-07 15:24:58.445] [ERROR] default - Validate parameter error: adp ids aren't all same type.
+[2014-02-07 15:24:58.446] [ERROR] default - Error adps:0001
+[2014-02-07 15:29:36.640] [ERROR] default - Validate parameter error: adp ids aren't all same type.
+[2014-02-07 15:29:36.640] [ERROR] default - Error adps:0001
+[2014-02-07 17:41:37.042] [INFO] default - DB Connect Success!!!
+[2014-02-07 17:41:37.042] [INFO] default - Query Area:000000
+[2014-02-07 17:41:37.042] [INFO] default - Query adp_id:60124,60011,60010
+[2014-02-07 17:43:21.712] [INFO] default - DB Connect Success!!!
+[2014-02-07 17:43:21.716] [INFO] default - Query Area:000000
+[2014-02-07 17:43:21.716] [INFO] default - Query adp_id:60124,60011,60010
+[2014-02-07 17:43:58.091] [INFO] default - DB Connect Success!!!
+[2014-02-07 17:43:58.092] [INFO] default - Query Area:11
+[2014-02-07 17:43:58.092] [INFO] default - Query adp_id:60124,60011,60010
